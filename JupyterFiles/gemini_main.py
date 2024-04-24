@@ -2,7 +2,11 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 import os
 from gemini_utility import load_gemini_pro_model
+<<<<<<< HEAD
 
+=======
+import os
+>>>>>>> f95cee3acad4d97e01adb111b3f79ffd64fe8e58
 
 
 
